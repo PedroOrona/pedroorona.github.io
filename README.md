@@ -1,10 +1,8 @@
-## Welcome to my Portifolio
+## Welcome to my Data Science Portifolio
 
-You can use the [editor on GitHub](https://github.com/PedroOrona/pedroorona.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This portfolio is a compilation of notebooks which I created for exploration of machine learning algorithms, also for data analysis.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Classification problems
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
