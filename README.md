@@ -4,7 +4,7 @@ This portfolio is a compilation of data science projects which I created for exp
 
 ## Classification problems
 
-* ### [Credit Card fraud detection]
+* [Credit Card fraud detection]
 
 ** Dataset provided by [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud).
 ** Visualization and preparation of the data itself.
