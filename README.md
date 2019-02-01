@@ -4,7 +4,7 @@ This portfolio is a compilation of data science projects which I created for exp
 
 ## Classification problems
 
-### [Credit Card fraud detection](https://github.com/PedroOrona/pedroorona.github.io/blob/master/Fraud%20Detection.ipynb)
+### [Credit Card fraud detection](https://github.com/PedroOrona/pedroorona.github.io/blob/master/Fraud%20Detection.ipynb):
 
   - Dataset provided by [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud).
   - Visualization and preparation of the data itself.
