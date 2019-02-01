@@ -1,28 +1,16 @@
-## Welcome to my Data Science Portifolio
+# Welcome to my Data Science Portifolio
 
 This portfolio is a compilation of notebooks which I created for exploration of machine learning algorithms, also for data analysis.  
 
-### Classification problems
+## Classification problems
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Credit Card fraud detection
 
-```markdown
-Syntax highlighted code block
+"It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase."
 
-# Header 1
-## Header 2
-### Header 3
+In hands with the dataset, provide in this link (https://www.kaggle.com/mlg-ulb/creditcardfraud) I tryed to make some visualization and preparation of the data itself. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. It is highly imbalanced, with the positive class (frauds) accounting for 0.172% of all transactions.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
