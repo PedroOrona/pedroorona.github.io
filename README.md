@@ -1,14 +1,14 @@
 # Welcome to my Data Science Portifolio
 
-This portfolio is a compilation of notebooks which I created for exploration of machine learning algorithms, also for data analysis.  
+This portfolio is a compilation of data science projects which I created for exploration of machine learning algorithms, also for data analysis, presented in the form of iPython Notebooks.  
 
 ## Classification problems
 
-### Credit Card fraud detection
+* ### Credit Card fraud detection
 
 "It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase."
 
-In hands with the dataset, provide in this link ([Kaggle Credit Card Fraud]https://www.kaggle.com/mlg-ulb/creditcardfraud) I tryed to make some visualization and preparation of the data itself. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. It is highly imbalanced, with the positive class (frauds) accounting for 0.172% of all transactions.
+In hands with the dataset, provide in this link [Kaggle Credit Card Fraud](https://www.kaggle.com/mlg-ulb/creditcardfraud) I tryed to make some visualization and preparation of the data itself. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. It is highly imbalanced, with the positive class (frauds) accounting for 0.172% of all transactions.
 
 
 
