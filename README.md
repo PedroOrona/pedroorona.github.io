@@ -13,8 +13,9 @@ This portfolio is a compilation of data science projects which I created for exp
 ### [Hand Writting Digits recognition](https://github.com/PedroOrona/pedroorona.github.io/blob/master/MNIST.ipynb)
 
   -  Evaluate the performance and predictive power of a model that has been trained and tested on 28 x 28 pixel images.
-  - Visualization e exploration of the data set.
-  - Comparison of different algorithms performance. 
+  - Visualization e exploration of the MNIST data set.
+  - Comparison of different algorithms performance.
+  - Usage of ROC and PR Curve.
 
 ### Support or Contact
 
